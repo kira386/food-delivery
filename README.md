@@ -1,5 +1,4 @@
-# food-delivery
-food delivery application using Flutter and PHP. 
+# SwiftBite Food Delivery Platform
 
 A portfolio food-delivery backend built with PHP 8.1+, MySQL, PDO and JSON REST endpoints.
 It models restaurants, menus, customer orders, order items and courier assignment.
